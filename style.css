@@ -1,4 +1,4 @@
-a[type="link"] {
+a[href^="https"] {
     color: red;
     }
     ul + p {
